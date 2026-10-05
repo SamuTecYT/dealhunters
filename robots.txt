@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /*/account/
+Disallow: /*/saved/
+Disallow: /*/explore/
+
+Sitemap: https://samutecyt.github.io/dealhunters/sitemap.xml
